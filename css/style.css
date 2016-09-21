@@ -1,0 +1,48 @@
+body {
+  background: #f5ffe8 none;
+}
+
+body.fancy {
+  background: #cccccc url('../images/backg.png');
+}
+
+body,th,td {
+  font-family: 'Verdana',sans-serif;
+  font-size: 9pt;
+  color: #444444;
+}
+
+
+h1 {
+  width: auto;
+  height: auto;
+  background-image: none;
+  padding: 0;
+  color: #4a6074;
+  font-size: 1.4em;
+}
+
+
+.box{
+  border:1px solid black;
+  float:left;
+  background-color: #ccc;
+  width:118px;
+  height:120px;
+}
+
+#container{
+  float:left;
+  width:600px;
+  border:1px solid green;
+  padding:20px;
+}
+#trobatsContainer{
+  float:left;
+  width:300px;
+  border:1px solid black;
+  margin-left:50px;
+}
+.timer{
+  margin-left:570px;
+}

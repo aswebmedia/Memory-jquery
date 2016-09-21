@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memory>
+    <card>
+        <id>123</id>
+        <path>img/memimg/10.jpg</path>     
+    </card>
+    <card>
+        <id>124</id>
+        <path>img/memimg/12.jpg</path>     
+    </card>
+    <card>
+        <id>125</id>
+        <path>img/memimg/22.jpg</path>     
+    </card>
+    <card>
+        <id>126</id>
+        <path>img/memimg/1.jpg</path>     
+    </card>
+    <card>
+        <id>127</id>
+        <path>img/memimg/9.jpg</path>     
+    </card>
+    <card>
+        <id>128</id>
+        <path>img/memimg/23.jpg</path>     
+    </card>
+    <card>
+        <id>129</id>
+        <path>img/memimg/13.jpg</path>     
+    </card>
+    <card>
+        <id>130</id>
+        <path>img/memimg/58.jpg</path>     
+    </card>
+    <card>
+        <id>131</id>
+        <path>img/memimg/44.jpg</path>     
+    </card>
+    <card>
+        <id>132</id>
+        <path>img/memimg/31.jpg</path>     
+    </card>
+    <card>
+            <id>133</id>
+            <path>img/memimg/78.jpg</path>     
+        </card>
+</memory>
